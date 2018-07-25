@@ -1,0 +1,13 @@
+// Styling for the services section
+.service-heading {
+  margin: 15px 0;
+  text-transform: none;
+}
+.skill-img-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  .skill-img {
+    width: 100px;
+  }
+}
